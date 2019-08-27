@@ -6,8 +6,6 @@
 
 #include "src.c"
 
-// #include "src.c"
-
 int main() {
 	bit_calc(); 
 	return 0;  
